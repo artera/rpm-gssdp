@@ -4,8 +4,8 @@ Release:       3%{?dist}
 Summary:       Resource discovery and announcement over SSDP
 
 License:       LGPLv2+
-URL:           http://www.gupnp.org/
-Source0:       http://download.gnome.org/sources/%{name}/1.4/%{name}-%{version}.tar.xz
+URL:           https://www.gupnp.org/
+Source0:       https://download.gnome.org/sources/%{name}/1.4/%{name}-%{version}.tar.xz
 
 BuildRequires: glib2-devel
 BuildRequires: gobject-introspection-devel >= 1.36
